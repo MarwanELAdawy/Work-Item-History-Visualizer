@@ -1,0 +1,16 @@
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\bin\Debug\WorkItem.History.Visualizer.exe
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\bin\Debug\WorkItem.History.Visualizer.pdb
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\bin\Debug\Microsoft.WITDataStore.dll
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.Form1.resources
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.Properties.Resources.resources
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.csproj.GenerateResource.Cache
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.exe
+G:\Workspace\RPOS\Main\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.pdb
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.csprojResolveAssemblyReference.cache
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.Form1.resources
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.Properties.Resources.resources
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.csproj.GenerateResource.Cache
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.exe
+C:\Users\marwa\Downloads\Compressed\WorkItemHistoryVisualizer\WorkItem.History.Visualizer\WorkItem.History.Visualizer\obj\Debug\WorkItem.History.Visualizer.pdb
